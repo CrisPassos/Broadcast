@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Broadcast</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="teste">Teste</string>
+    <string name="tempo">Tempo (em segundos)</string>
+    <string name="btnConfigurar">Configurar</string>
+</resources>
